@@ -1,0 +1,3 @@
+# Reducing the Computational Complexity of the Volterra Series Using Permutation/Product Maps (Source/Implementation)
+
+This repository contains the source code of the algorithm(s)/implementation used to produce the results in the paper "Reducing the Computational Complexity of the Volterra Series Using Permutation/Product Maps", to be presented at the 2024 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2024).
